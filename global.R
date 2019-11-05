@@ -11,11 +11,6 @@ library(gridExtra)
 library(rstudioapi)
 library(shiny)
 library(shinyWidgets)
-
-#Set the directory to the current location to access scripts and data
-currentPath <- getActiveDocumentContext()$path
-setwd(dirname(currentPath))
-# setwd("C:/Users/athomas/Documents/Mizer_Myanmar")
 source("functions.R")
 source("cc_functions.R")
 ## Load data
