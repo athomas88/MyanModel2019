@@ -1,0 +1,274 @@
+Region,Depth int,NoStation,Species,t/nm2,Biom_t,Biom_kg
+Arakan Coast,20 - 50,14,Ariidae,0,21.4,21400
+Arakan Coast,50 - 100,13,Ariidae,0,0,0
+Arakan Coast,100 - 200,12,Ariidae,0,0,0
+Arakan Coast,200 - 500,2,Ariidae,0,0,0
+Delta Area,20 - 50,14,Ariidae,0,380.5,380500
+Delta Area,50 - 100,22,Ariidae,0,60.3,60300
+Delta Area,100 - 200,17,Ariidae,0,43.2,43200
+Delta Area,200 - 500,5,Ariidae,0,0,0
+Tenasserim coast,20 - 50,2,Ariidae,0,0,0
+Tenasserim coast,50 - 100,18,Ariidae,0,0,0
+Tenasserim coast,100 - 200,11,Ariidae,0,0,0
+Tenasserim coast,200 - 500,13,Ariidae,0,0,0
+Tenasserim coast,500 - 1000,2,Ariidae,0,0,0
+Arakan Coast,20 - 50,14,Brotula,0,0,0
+Arakan Coast,50 - 100,13,Brotula,0,0,0
+Arakan Coast,100 - 200,12,Brotula,0,3.6,3600
+Arakan Coast,200 - 500,2,Brotula,0.6,676.3,676300
+Delta Area,20 - 50,14,Brotula,0,0,0
+Delta Area,50 - 100,22,Brotula,0,0,0
+Delta Area,100 - 200,17,Brotula,0,27,27000
+Delta Area,200 - 500,5,Brotula,0.1,157.3,157300
+Tenasserim coast,20 - 50,2,Brotula,0,0,0
+Tenasserim coast,50 - 100,18,Brotula,0,8.1,8100
+Tenasserim coast,100 - 200,11,Brotula,0,0,0
+Tenasserim coast,200 - 500,13,Brotula,0.1,316.6,316600
+Tenasserim coast,500 - 1000,2,Brotula,0.1,234.6,234600
+Arakan Coast,20 - 50,14,Cephalopods,0.1,232.9,232900
+Arakan Coast,50 - 100,13,Cephalopods,0.3,827.1,827100
+Arakan Coast,100 - 200,12,Cephalopods,0,33.7,33700
+Arakan Coast,200 - 500,2,Cephalopods,0,0,0
+Delta Area,20 - 50,14,Cephalopods,0.1,982.3,982300
+Delta Area,50 - 100,22,Cephalopods,0.3,3297.8,3297800
+Delta Area,100 - 200,17,Cephalopods,0,253.5,253500
+Delta Area,200 - 500,5,Cephalopods,0.2,394.1,394100
+Tenasserim coast,20 - 50,2,Cephalopods,0.5,2376.2,2376200
+Tenasserim coast,50 - 100,18,Cephalopods,0.3,2392,2392000
+Tenasserim coast,100 - 200,11,Cephalopods,0,89.6,89600
+Tenasserim coast,200 - 500,13,Cephalopods,0.2,1365.5,1365500
+Tenasserim coast,500 - 1000,2,Cephalopods,0,59.8,59800
+Arakan Coast,20 - 50,14,Crabs,0,53.5,53500
+Arakan Coast,50 - 100,13,Crabs,0.2,503.7,503700
+Arakan Coast,100 - 200,12,Crabs,0.8,984,984000
+Arakan Coast,200 - 500,2,Crabs,0.5,586,586000
+Delta Area,20 - 50,14,Crabs,0.1,513.3,513300
+Delta Area,50 - 100,22,Crabs,0,211.1,211100
+Delta Area,100 - 200,17,Crabs,0.2,954.7,954700
+Delta Area,200 - 500,5,Crabs,0,84.8,84800
+Tenasserim coast,20 - 50,2,Crabs,0,83.9,83900
+Tenasserim coast,50 - 100,18,Crabs,0,40.4,40400
+Tenasserim coast,100 - 200,11,Crabs,0,19,19000
+Tenasserim coast,200 - 500,13,Crabs,0,6.2,6200
+Tenasserim coast,500 - 1000,2,Crabs,0,0,0
+Arakan Coast,20 - 50,14,Croakers,0.1,315.9,315900
+Arakan Coast,50 - 100,13,Croakers,0,5.7,5700
+Arakan Coast,100 - 200,12,Croakers,0,0,0
+Arakan Coast,200 - 500,2,Croakers,0,0,0
+Delta Area,20 - 50,14,Croakers,0.3,2318.5,2318500
+Delta Area,50 - 100,22,Croakers,0,241.3,241300
+Delta Area,100 - 200,17,Croakers,0,188.8,188800
+Delta Area,200 - 500,5,Croakers,0,0,0
+Tenasserim coast,20 - 50,2,Croakers,0,0,0
+Tenasserim coast,50 - 100,18,Croakers,0,0,0
+Tenasserim coast,100 - 200,11,Croakers,0,0,0
+Tenasserim coast,200 - 500,13,Croakers,0,0,0
+Tenasserim coast,500 - 1000,2,Croakers,0,0,0
+Arakan Coast,20 - 50,14,Groupers,0,24.1,24100
+Arakan Coast,50 - 100,13,Groupers,0.1,254.7,254700
+Arakan Coast,100 - 200,12,Groupers,0,15.7,15700
+Arakan Coast,200 - 500,2,Groupers,0,0,0
+Delta Area,20 - 50,14,Groupers,0,88.58,88580
+Delta Area,50 - 100,22,Groupers,0,181,181000
+Delta Area,100 - 200,17,Groupers,0,0,0
+Delta Area,200 - 500,5,Groupers,0,0,0
+Tenasserim coast,20 - 50,2,Groupers,0,0,0
+Tenasserim coast,50 - 100,18,Groupers,0.2,1228.3,1228300
+Tenasserim coast,100 - 200,11,Groupers,0,108.7,108700
+Tenasserim coast,200 - 500,13,Groupers,0,0,0
+Tenasserim coast,500 - 1000,2,Groupers,0,0,0
+Arakan Coast,20 - 50,14,Grunts,0.1,265.1,265100
+Arakan Coast,50 - 100,13,Grunts,0,57.2,57200
+Arakan Coast,100 - 200,12,Grunts,0,0,0
+Arakan Coast,200 - 500,2,Grunts,0,0,0
+Delta Area,20 - 50,14,Grunts,0.1,672.5,672500
+Delta Area,50 - 100,22,Grunts,0,20.1,20100
+Delta Area,100 - 200,17,Grunts,0,10.8,10800
+Delta Area,200 - 500,5,Grunts,0,0,0
+Tenasserim coast,20 - 50,2,Grunts,0,157.4,157400
+Tenasserim coast,50 - 100,18,Grunts,0,0,0
+Tenasserim coast,100 - 200,11,Grunts,0,43.5,43500
+Tenasserim coast,200 - 500,13,Grunts,0,0,0
+Tenasserim coast,500 - 1000,2,Grunts,0,0,0
+Arakan Coast,20 - 50,14,Leiognathidae,2.4,6318.5,6318500
+Arakan Coast,50 - 100,13,Leiognathidae,0.9,2444.1,2444100
+Arakan Coast,100 - 200,12,Leiognathidae,0,0,0
+Arakan Coast,200 - 500,2,Leiognathidae,0,0,0
+Delta Area,20 - 50,14,Leiognathidae,0.2,1938,1938000
+Delta Area,50 - 100,22,Leiognathidae,0,120.7,120700
+Delta Area,100 - 200,17,Leiognathidae,0,0,0
+Delta Area,200 - 500,5,Leiognathidae,0,0,0
+Tenasserim coast,20 - 50,2,Leiognathidae,0.4,2302.7,2302700
+Tenasserim coast,50 - 100,18,Leiognathidae,0,169.7,169700
+Tenasserim coast,100 - 200,11,Leiognathidae,0,2.7,2700
+Tenasserim coast,200 - 500,13,Leiognathidae,0,0,0
+Tenasserim coast,500 - 1000,2,Leiognathidae,0,0,0
+Arakan Coast,20 - 50,14,Lobsters,0,5.4,5400
+Arakan Coast,50 - 100,13,Lobsters,0,5.7,5700
+Arakan Coast,100 - 200,12,Lobsters,0,1.2,1200
+Arakan Coast,200 - 500,2,Lobsters,0,1.1,1100
+Delta Area,20 - 50,14,Lobsters,0,0,0
+Delta Area,50 - 100,22,Lobsters,0,20.1,20100
+Delta Area,100 - 200,17,Lobsters,0,10.8,10800
+Delta Area,200 - 500,5,Lobsters,0.2,399.4,399400
+Tenasserim coast,20 - 50,2,Lobsters,0,0,0
+Tenasserim coast,50 - 100,18,Lobsters,0,16.2,16200
+Tenasserim coast,100 - 200,11,Lobsters,0.3,804,804000
+Tenasserim coast,200 - 500,13,Lobsters,0.4,2470.4,2470400
+Tenasserim coast,500 - 1000,2,Lobsters,0.1,129.3,129300
+Arakan Coast,20 - 50,14,Mullidae,0.2,404.3,404300
+Arakan Coast,50 - 100,13,Mullidae,0.3,838.5,838500
+Arakan Coast,100 - 200,12,Mullidae,0,1.2,1200
+Arakan Coast,200 - 500,2,Mullidae,0,0,0
+Delta Area,20 - 50,14,Mullidae,0.1,769.9,769900
+Delta Area,50 - 100,22,Mullidae,0.3,2966,2966000
+Delta Area,100 - 200,17,Mullidae,0,97.1,97100
+Delta Area,200 - 500,5,Mullidae,0,0,0
+Tenasserim coast,20 - 50,2,Mullidae,0.1,393.4,393400
+Tenasserim coast,50 - 100,18,Mullidae,0.1,1058.6,1058600
+Tenasserim coast,100 - 200,11,Mullidae,0.1,146.7,146700
+Tenasserim coast,200 - 500,13,Mullidae,0,0,0
+Tenasserim coast,500 - 1000,2,Mullidae,0,0,0
+Arakan Coast,20 - 50,14,Muraenesocidae,0,24.1,24100
+Arakan Coast,50 - 100,13,Muraenesocidae,0,0,0
+Arakan Coast,100 - 200,12,Muraenesocidae,0.1,127.7,127700
+Arakan Coast,200 - 500,2,Muraenesocidae,0,0,0
+Delta Area,20 - 50,14,Muraenesocidae,0.2,1371.6,1371600
+Delta Area,50 - 100,22,Muraenesocidae,0,130.7,130700
+Delta Area,100 - 200,17,Muraenesocidae,0,27,27000
+Delta Area,200 - 500,5,Muraenesocidae,0,0,0
+Tenasserim coast,20 - 50,2,Muraenesocidae,0,0,0
+Tenasserim coast,50 - 100,18,Muraenesocidae,0,97,97000
+Tenasserim coast,100 - 200,11,Muraenesocidae,0,0,0
+Tenasserim coast,200 - 500,13,Muraenesocidae,0,0,0
+Tenasserim coast,500 - 1000,2,Muraenesocidae,0,0,0
+Arakan Coast,20 - 50,14,Rays,0,56.2,56200
+Arakan Coast,50 - 100,13,Rays,0.03,474,474000
+Arakan Coast,100 - 200,12,Rays,0,3.6,3600
+Arakan Coast,200 - 500,2,Rays,0.1,59,59000
+Delta Area,20 - 50,14,Rays,0,8.8,8800
+Delta Area,50 - 100,22,Rays,0,100.5,100500
+Delta Area,100 - 200,17,Rays,0.1,426.1,426100
+Delta Area,200 - 500,5,Rays,1.1,1928.2,1928200
+Tenasserim coast,20 - 50,2,Rays,0,0,0
+Tenasserim coast,50 - 100,18,Rays,0.1,686.9,686900
+Tenasserim coast,100 - 200,11,Rays,0.8,2251.8,2251800
+Tenasserim coast,200 - 500,13,Rays,1.1,6964.2,6964200
+Tenasserim coast,500 - 1000,2,Rays,0,0,0
+Arakan Coast,20 - 50,14,Sea Snakes,0,5.4,5400
+Arakan Coast,50 - 100,13,Sea Snakes,0,14.3,14300
+Arakan Coast,100 - 200,12,Sea Snakes,0,13.2,13200
+Arakan Coast,200 - 500,2,Sea Snakes,0,0,0
+Delta Area,20 - 50,14,Sea Snakes,0,79.6,79600
+Delta Area,50 - 100,22,Sea Snakes,0,40.2,40200
+Delta Area,100 - 200,17,Sea Snakes,0,0,0
+Delta Area,200 - 500,5,Sea Snakes,0,0,0
+Tenasserim coast,20 - 50,2,Sea Snakes,0,0,0
+Tenasserim coast,50 - 100,18,Sea Snakes,0,32.3,32300
+Tenasserim coast,100 - 200,11,Sea Snakes,0,0,0
+Tenasserim coast,200 - 500,13,Sea Snakes,0,0,0
+Tenasserim coast,500 - 1000,2,Sea Snakes,0,0,0
+Arakan Coast,20 - 50,14,Sharks,0,0,0
+Arakan Coast,50 - 100,13,Sharks,0,0,0
+Arakan Coast,100 - 200,12,Sharks,0.1,118,118000
+Arakan Coast,200 - 500,2,Sharks,0.3,339.8,339800
+Delta Area,20 - 50,14,Sharks,0,79.6,79600
+Delta Area,50 - 100,22,Sharks,0,170.9,170900
+Delta Area,100 - 200,17,Sharks,0.1,523.2,523200
+Delta Area,200 - 500,5,Sharks,0.7,1216,1216000
+Tenasserim coast,20 - 50,2,Sharks,0,0,0
+Tenasserim coast,50 - 100,18,Sharks,0,32.3,32300
+Tenasserim coast,100 - 200,11,Sharks,0.1,255.3,255300
+Tenasserim coast,200 - 500,13,Sharks,0.3,1632.4,1632400
+Tenasserim coast,500 - 1000,2,Sharks,0.9,2221.5,2221500
+Arakan Coast,20 - 50,14,Shrimps,0.2,431.1,431100
+Arakan Coast,50 - 100,13,Shrimps,0.4,1187.7,1187700
+Arakan Coast,100 - 200,12,Shrimps,0,9.6,9600
+Arakan Coast,200 - 500,2,Shrimps,0.1,96.9,96900
+Delta Area,20 - 50,14,Shrimps,0.2,1920.3,1920300
+Delta Area,50 - 100,22,Shrimps,0,492.7,492700
+Delta Area,100 - 200,17,Shrimps,0.3,1370,1370000
+Delta Area,200 - 500,5,Shrimps,1,1846.9,1846900
+Tenasserim coast,20 - 50,2,Shrimps,0.1,367.2,367200
+Tenasserim coast,50 - 100,18,Shrimps,0,80.8,80800
+Tenasserim coast,100 - 200,11,Shrimps,0,8.1,8100
+Tenasserim coast,200 - 500,13,Shrimps,1.3,8075.2,8075200
+Tenasserim coast,500 - 1000,2,Shrimps,0.5,1144.2,1144200
+Arakan Coast,20 - 50,14,Snappers,0,40.2,40200
+Arakan Coast,50 - 100,13,Snappers,0.1,188.9,188900
+Arakan Coast,100 - 200,12,Snappers,0,0,0
+Arakan Coast,200 - 500,2,Snappers,0,0,0
+Delta Area,20 - 50,14,Snappers,0,8.8,8800
+Delta Area,50 - 100,22,Snappers,0,30.2,30200
+Delta Area,100 - 200,17,Snappers,0,183.4,183400
+Delta Area,200 - 500,5,Snappers,0,0,0
+Tenasserim coast,20 - 50,2,Snappers,0,0,0
+Tenasserim coast,50 - 100,18,Snappers,0,339.4,339400
+Tenasserim coast,100 - 200,11,Snappers,0,116.8,116800
+Tenasserim coast,200 - 500,13,Snappers,0,0,0
+Tenasserim coast,500 - 1000,2,Snappers,0,0,0
+Arakan Coast,20 - 50,14,Soles,0,0,0
+Arakan Coast,50 - 100,13,Soles,0,45.8,45800
+Arakan Coast,100 - 200,12,Soles,0,2.4,2400
+Arakan Coast,200 - 500,2,Soles,0,0,0
+Delta Area,20 - 50,14,Soles,0,407.1,407100
+Delta Area,50 - 100,22,Soles,0.1,532.9,532900
+Delta Area,100 - 200,17,Soles,0.1,323.6,323600
+Delta Area,200 - 500,5,Soles,0,0,0
+Tenasserim coast,20 - 50,2,Soles,0.1,320,320000
+Tenasserim coast,50 - 100,18,Soles,0.1,824.3,824300
+Tenasserim coast,100 - 200,11,Soles,0.1,203.7,203700
+Tenasserim coast,200 - 500,13,Soles,0,161.4,161400
+Tenasserim coast,500 - 1000,2,Soles,0,0,0
+Arakan Coast,20 - 50,14,Stromateidae,0,66.9,66900
+Arakan Coast,50 - 100,13,Stromateidae,0,0,0
+Arakan Coast,100 - 200,12,Stromateidae,0,0,0
+Arakan Coast,200 - 500,2,Stromateidae,0,0,0
+Delta Area,20 - 50,14,Stromateidae,0,194.7,194700
+Delta Area,50 - 100,22,Stromateidae,0,40.2,40200
+Delta Area,100 - 200,17,Stromateidae,0,0,0
+Delta Area,200 - 500,5,Stromateidae,0,0,0
+Tenasserim coast,20 - 50,2,Stromateidae,0,0,0
+Tenasserim coast,50 - 100,18,Stromateidae,0,0,0
+Tenasserim coast,100 - 200,11,Stromateidae,0,0,0
+Tenasserim coast,200 - 500,13,Stromateidae,0,0,0
+Tenasserim coast,500 - 1000,2,Stromateidae,0,0,0
+Arakan Coast,20 - 50,14,Synodontidae,0.1,245.3,245300
+Arakan Coast,50 - 100,13,Synodontidae,0.2,589.5,589500
+Arakan Coast,100 - 200,12,Synodontidae,0.7,839.5,839500
+Arakan Coast,200 - 500,2,Synodontidae,0,0,0
+Delta Area,20 - 50,14,Synodontidae,0.3,2327.4,2327400
+Delta Area,50 - 100,22,Synodontidae,0.2,2382.8,2382800
+Delta Area,100 - 200,17,Synodontidae,0.5,2745.4,2745400
+Delta Area,200 - 500,5,Synodontidae,0,5.3,5300
+Tenasserim coast,20 - 50,2,Synodontidae,0.5,2638.4,2638400
+Tenasserim coast,50 - 100,18,Synodontidae,0.5,3814.2,3814200
+Tenasserim coast,100 - 200,11,Synodontidae,0.3,809.5,809500
+Tenasserim coast,200 - 500,13,Synodontidae,0,0,0
+Tenasserim coast,500 - 1000,2,Synodontidae,0,0,0
+Arakan Coast,20 - 50,14,Threadfin,0,5.4,5400
+Arakan Coast,50 - 100,13,Threadfin,0,0,0
+Arakan Coast,100 - 200,12,Threadfin,0,0,0
+Arakan Coast,200 - 500,2,Threadfin,0,0,0
+Delta Area,20 - 50,14,Threadfin,0.1,522.1,522100
+Delta Area,50 - 100,22,Threadfin,0,140.8,140800
+Delta Area,100 - 200,17,Threadfin,0,5.4,5400
+Delta Area,200 - 500,5,Threadfin,0,0,0
+Tenasserim coast,20 - 50,2,Threadfin,0,0,0
+Tenasserim coast,50 - 100,18,Threadfin,0,0,0
+Tenasserim coast,100 - 200,11,Threadfin,0,0,0
+Tenasserim coast,200 - 500,13,Threadfin,0,0,0
+Tenasserim coast,500 - 1000,2,Threadfin,0,0,0
+Arakan Coast,20 - 50,14,Threadfin breams,0.2,409.6,409600
+Arakan Coast,50 - 100,13,Threadfin breams,0.3,978.8,978800
+Arakan Coast,100 - 200,12,Threadfin breams,0.2,209.6,209600
+Arakan Coast,200 - 500,2,Threadfin breams,0,0,0
+Delta Area,20 - 50,14,Threadfin breams,0,389.4,389400
+Delta Area,50 - 100,22,Threadfin breams,0.3,3187.2,3187200
+Delta Area,100 - 200,17,Threadfin breams,0.3,1677.5,1677500
+Delta Area,200 - 500,5,Threadfin breams,0,0,0
+Tenasserim coast,20 - 50,2,Threadfin breams,0,0,0
+Tenasserim coast,50 - 100,18,Threadfin breams,0.2,1680.8,1680800
+Tenasserim coast,100 - 200,11,Threadfin breams,0,133.1,133100
+Tenasserim coast,200 - 500,13,Threadfin breams,0,0,0
+Tenasserim coast,500 - 1000,2,Threadfin breams,0,0,0
